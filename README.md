@@ -1,1 +1,1 @@
-# Web-Inventori-Penjualan
+# PROJECT WEB MATA KULIAH SISTEM BASIS DATA
